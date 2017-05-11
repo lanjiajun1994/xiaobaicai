@@ -10,13 +10,6 @@
 .container {
 	margin-top: 40px;
 }
-.fullscreen{
-	background:white;
-width:100%;
-height:100%;
-z-index:-1; 
-top:0;
-left:0;
-right:0;
-bottom:0;
-}
+img｛
+       opacity:0.5;
+｝
