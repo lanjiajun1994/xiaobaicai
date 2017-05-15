@@ -10,10 +10,10 @@
 .container {
 	margin-top: 40px;
 }
-img｛
+.img｛
        opacity:0.5;
 ｝
-fullscreen{
+.fullscreen{
         width: 100%;
 	height: 100%;
 	z-index: -1;
