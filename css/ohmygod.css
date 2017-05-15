@@ -1,14 +1,17 @@
 .col-xs-4{
 	padding-left: 0px;
 	padding-right: 0px;
+	opacity:0.5;
 }
 
 .col-xs-4 a{
 	margin-bottom: 0px;
+	opacity:0.5;
 }
 
 .container {
 	margin-top: 40px;
+	opacity:0.5;
 }
 .img｛
        opacity:0.5;
